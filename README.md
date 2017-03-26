@@ -11,8 +11,8 @@ list  to copy a list of all keywords and their corresponding values to the clipb
 
 # Usage
 Terminal commands-   
-python3 mcb.pyw save <keyword> - Saves clipboard to keyword.  
-python3 mcb.pyw <keyword> - Loads keyword to clipboard.  
+python3 mcb.pyw save \<keyword> - Saves clipboard to keyword.  
+python3 mcb.pyw \<keyword> - Loads keyword to clipboard.  
 python3 mcb.pyw list - Loads all keywords and correspoding values  to clipboard.  
 
 If you get an error message that says: “Pyperclip could not find a copy/paste mechanism for your system.", You can fix it by    installing one of the copy/paste mechanisms:  
