@@ -10,7 +10,7 @@ mcb.pyw spam . And if the user forgets what keywords they have, they can run  py
 list  to copy a list of all keywords and their corresponding values to the clipboard.   
 
 # Usage
-Terminal commands-
+Terminal commands-   
 python3 mcb.pyw save <keyword> - Saves clipboard to keyword.  
 python3 mcb.pyw <keyword> - Loads keyword to clipboard.  
 python3 mcb.pyw list - Loads all keywords and correspoding values  to clipboard.  
