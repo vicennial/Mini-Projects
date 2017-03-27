@@ -4,9 +4,9 @@ I am implementing this to gain experience with File I/O in python as well as get
 
 # Description     
 The program will save each piece of clipboard text under a keyword. For example, when
-you run  py mcb.pyw save spam , the current contents of the clipboard will be saved with
-the keyword spam. This text can later be loaded to the clipboard again by running  py
-mcb.pyw spam . And if the user forgets what keywords they have, they can run  py mcb.pyw
+you run  python3 mcb.pyw save spam , the current contents of the clipboard will be saved with
+the keyword spam. This text can later be loaded to the clipboard again by running  python3
+mcb.pyw spam . And if the user forgets what keywords they have, they can run  python3 mcb.pyw
 list  to copy a list of all keywords and their corresponding values to the clipboard.   
 
 # Usage
