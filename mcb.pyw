@@ -1,4 +1,4 @@
-#! python3
+#!/usr/bin/python3
 # Usage: python3 mcb.pyw save <keyword> - Saves clipboard to keyword.
 #        python3 mcb.pyw <keyword> - Loads keyword to clipboard.
 #        python3 mcb.pyw list - Loads all keywords and corresponding values to clipboard.
